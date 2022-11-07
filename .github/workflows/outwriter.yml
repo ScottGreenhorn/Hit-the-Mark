@@ -3,13 +3,13 @@ name: outwriter
 on:  pull_request
    
 jobs:  
-  name: write
-  runs-on: windows-latest
-  steps:
-  - name: typecheck
-    uses: actions/checkout@v2
-  - name: Changed Files Exporter
-      uses: umani/changed-files@v4.0.0
-      with:
-        repo-token: ${{ github.token }}
-        pattern: '^.*\.(md|markdown)$'
+   write:
+      runs-on: windows-latest
+      steps:
+        - name: typecheck
+          uses: actions/checkout@v2
+        - name: Changed Files Exporter
+          uses: umani/changed-files@v4.0.0
+          with:
+            repo-token: ${{ github.token }}
+            pattern: '^.*\.(md|markdown)$'
