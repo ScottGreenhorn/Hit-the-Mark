@@ -22,7 +22,9 @@ If you will be on planet November to March, add:
 
 > **IMPORTANT**
 > Antenna must be concealed at all times!
-> 
+
+![Ducttape](/docs/images/antenna.png)
+
 > NEVER remove your ball-cap/toque
 > 
 > If a human requests that you remove your hat you can avoid compliance by saying: *Dude, I am having a bad hair day!*
