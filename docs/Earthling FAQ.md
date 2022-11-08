@@ -2,7 +2,9 @@
 
 1. Duct Tape
 - Malfunction of any human item can be repaired with a substance called duct tape.
-![Duct tape](/docs/ducttape.png)
+
+![Ducttape](/docs/images/ducttape.PNG)
+
 2. Replying to  common queries
 - How are you? Reply *Good, you?*
 - How's work? Reply: *You know how it is, so busy*
