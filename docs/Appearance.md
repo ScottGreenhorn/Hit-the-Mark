@@ -23,7 +23,7 @@ If you will be on planet November to March, add:
 > **IMPORTANT**
 > Antenna must be concealed at all times!
 
-![Ducttape](/docs/images/antenna.png)
+![Antenna](/docs/images/antenna.png)
 
 > NEVER remove your ball-cap/toque
 > 
