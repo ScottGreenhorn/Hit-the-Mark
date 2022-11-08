@@ -2,7 +2,7 @@
 
 It is important that we can move undetected among the humans. Our cultural experts have assembled a generic set of clothing to mimic the human appearance.
 
-**Note** Do not remove your clothing without first refering to the Human etiquette section.
+**Note** Do not remove your clothing without first refering to the Earthling FAQ.
 
 Please visit the replicator and request the following attire:
 
