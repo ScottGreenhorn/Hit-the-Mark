@@ -1,6 +1,6 @@
 # Greetings #
 
-Upon first meeting a Earthlings, choose a ** greeting ** plus a ** weather observation **.
+Upon first meeting a Earthlings, choose a **greeting** plus a **weather observation**.
 
 Examples: 
 * Good morning, hope that water doesn't freeze on the roads! 
@@ -13,7 +13,7 @@ Choose one of the following:
 
 |Time of Day    | Greeting         |
 |---------------|------------------|
-|Any time       | Hi, Hey, or Hello|            |
+|Any time       | Hi, Hey, or Hello|            
 |Before 12:00   | Good morning     |
 |12:00 to 18:00 | Good afternoon   |
 |Before 12:00   | Good evening     |
@@ -22,8 +22,8 @@ Choose one of the following:
 
 ### On a Sunny day ###
 
-|Months                 | Temperature       | Comment                |
-|-----------------------|-------------------|------------------------|
+|Months                 | Temperature       | Comment                    |
+|-----------------------|-------------------|----------------------------|
 |December to February   | Above 0           | Beautiful day today        |
 |                       | -20 to 0          | Not a bad day out today    |
 |                       | Below -20         | Chilly out there today     |
