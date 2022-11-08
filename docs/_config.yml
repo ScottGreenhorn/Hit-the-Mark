@@ -30,7 +30,7 @@ url: "https://scottgreenhorn.github.io/" # the base hostname & protocol for your
 github_username:  ScottGreenhorn
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
