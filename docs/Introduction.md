@@ -9,7 +9,7 @@ After much research, we have decided that the human settlement of [Ottawa] https
 ## Preparation
 Before departure review the following:
 
-- Touchdown location
+- Appearance
 - Greetings
--
+- Earthling FAQ
 -
