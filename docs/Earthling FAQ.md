@@ -1,4 +1,4 @@
-#Earthling FAQ
+# Earthling FAQ
 
 1. Duct Tape
 - Malfunction of any human item can be repaired with a substance called duct tape.
