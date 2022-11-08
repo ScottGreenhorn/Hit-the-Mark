@@ -6,6 +6,6 @@ In order to study them further, we must interact with them without being detecte
 Before departure review the following:
 
 - Touchdown location
--
+- Greetings
 -
 -
